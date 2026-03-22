@@ -2,20 +2,29 @@
 <html>
     <head>
         <meta charset="UTF-8" />
-        <title>Clicker Game</title>
-        <link rel="stylesheet"  href="main.css" />
+        <title>Space Themed Clicker Game</title>
+        <link rel="stylesheet" href="main.css" />
     </head>
     <body>
-        <p>Credits: <span id=click-count>0</span></p>
 
-        <button id="click-btn">
-            <img src="https://cdn.hackclub.com/019cfd36-894e-7e56-9433-69a2b561cad4/images-removebg-preview.png" alt="Contact me if you see this: dsairohan@gmail.com" width="200">
-        </button>
+        <main class="game-layout">
+            <aside class="stats-panel">
+                <h2 id="donut">Credits: <span id="click-count">0</span></h2>
+            </aside>
+
+            <section class="game-area">
+                <h1 id="Topheading">Clicker Game</h1>
+                <button id="click-btn">
+                    <img src="https://cdn.hackclub.com/019cfd36-894e-7e56-9433-69a2b561cad4/images-removebg-preview.png" alt="click button" width="500">
+                </button>
+            </section>
+            
+            <aside class="shop-panel">
+                <h2>Shop</h2>
+                <div id="shop-items"></div>
+            </aside>
+        </main>
+
         <script src="main.js"></script>
     </body>
-    <main class="game-layout">
-        <aside class="stats-panel"></aside>
-        <section class="game-area"></section>
-        <aside class="shop-panel"></aside>
-    </main>
 </html>
