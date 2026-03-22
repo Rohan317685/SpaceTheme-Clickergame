@@ -6,3 +6,5 @@ This has local storage saving and the price of the item's increase as you buy mo
 Everything else is pretty self explanatory here is a picture of how it looks like:
 
 <image src=https://cdn.hackclub.com/019d1691-7bf5-7e79-9ea5-654d7a1d1ac9/20260322_17h21m41s_grim.png /> 
+
+Also you can play it here: https://rohan317685.github.io/SpaceTheme-Clickergame/
