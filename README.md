@@ -1,6 +1,6 @@
 # SpaceTheme-Clickergame
 
-This is a SpaceThemed clicker game made for Hackclub! #resolution!
+This is a SpaceThemed clicker game made for Hackclub a 501(c) nonprofit! #resolution!
 
 This has local storage saving and the price of the item's increase as you buy more! 
 Everything else is pretty self explanatory here is a picture of how it looks like:
